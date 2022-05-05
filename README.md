@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominik Jakubaszek</h1>
 <h3 align="center">Software Tester</h3>
 
+![image](https://user-images.githubusercontent.com/99763636/167040533-89a9a145-8770-4a01-b3f6-e9cea1df580b.png)
 
-![ja](https://user-images.githubusercontent.com/99763636/167005112-646bb1fe-84db-454a-b010-25b2e1fc6b96.png)
+
 
 - 🔭 I’m currently working on **QualityMinds**
 
