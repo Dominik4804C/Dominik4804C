@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java/ C#**
 
-- 🌱  Hey check out website about me  https://dominik2208f.github.io/Strona_dynamiczna/
+- 🌱  Hey check out website about me  ---> download "strona dynamiczna "from my repo :) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
