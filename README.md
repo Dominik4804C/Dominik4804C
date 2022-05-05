@@ -2,6 +2,7 @@
 <h3 align="center">Software Tester</h3>
 
 
+![ja](https://user-images.githubusercontent.com/99763636/167005112-646bb1fe-84db-454a-b010-25b2e1fc6b96.png)
 
 - 🔭 I’m currently working on **QualityMinds**
 
