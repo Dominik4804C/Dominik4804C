@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **QualityMinds**
+- 🔭 I’m currently working on AXA
 
 - 🌱 I’m currently learning **Java/ C#**
 
