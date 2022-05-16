@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik Jakubaszek</h1>
 <h3 align="center">Software Tester</h3>
+![image](https://user-images.githubusercontent.com/99763636/168663574-765c0f8f-b727-45d3-a4ac-592137e16e9a.png)
 
 
 
