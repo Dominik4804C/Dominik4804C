@@ -2,7 +2,7 @@
 <h3 align="center">Software Tester</h3>
 
 
-![image](https://user-images.githubusercontent.com/99763636/169045250-8547d8c0-0299-4a5c-abd2-2449d7e32a9a.png)
+![image](https://user-images.githubusercontent.com/99763636/186998241-4827a18b-c2ec-4e37-a609-3f7f8641a1ea.png)
 
 
 
