@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominik Jakubaszek</h1>
-<h3 align="center">Software Tester</h3>
+<h3 align="center"> Junior Automation Engineer</h3>
 
 
 ![image](https://user-images.githubusercontent.com/99763636/186998241-4827a18b-c2ec-4e37-a609-3f7f8641a1ea.png)
