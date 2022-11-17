@@ -2,18 +2,17 @@
 <h3 align="center"> Junior Automation Engineer</h3>
 
 
-![image](https://user-images.githubusercontent.com/99763636/186998241-4827a18b-c2ec-4e37-a609-3f7f8641a1ea.png)
+!<img width="656" alt="Zrzut ekranu 2022-11-17 114007" src="https://user-images.githubusercontent.com/99763636/202425061-c592a8cd-dde0-450f-af14-b8b63904fdf1.png">
 
 
 
 
 
 
-- 🔭 I’m currently working on AXA
 
 - 🌱 I’m currently learning **Java/ C#**
 
-- 🌱  Hey check out website about me  html/css ---> https://dominik2208f.github.io/About_me/     
+- 🌱  Hey check out website about me  html/css ---> https://dominik2208f.github.io/About_me1/     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
