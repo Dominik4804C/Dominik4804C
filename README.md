@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java/ C#**
 
-- 🌱  Hey check out website about me  html/css ---> https://dominik2208f.github.io/About_me1/     
+- 🌱  Hey check out website about me ---> https://dominik2208f.github.io/About_me1/     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
