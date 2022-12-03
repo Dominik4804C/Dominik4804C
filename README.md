@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominik2208f&label=Profile%20views&color=0e75b6&style=flat" alt="dominik2208f" /> </p>
 
-- 🔭 I’m currently working on **Soflab**
+- 🔭 I’m currently working at **Soflab**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dominik-jakubaszek/**
 
