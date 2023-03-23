@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working at **Soflab**
 
-- 📫 How to reach me **https://www.linkedin.com/in/dominik-jakubaszek/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
