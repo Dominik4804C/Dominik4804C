@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominik Jakubaszek</h1>
-<h3 align="center">Junior Test Automation Engineer</h3>
+<h3 align="center">Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominik2208f&label=Profile%20views&color=0e75b6&style=flat" alt="dominik2208f" /> </p>
 
