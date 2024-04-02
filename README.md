@@ -2,10 +2,6 @@
 <h3 align="center">Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominik2208f&label=Profile%20views&color=0e75b6&style=flat" alt="dominik2208f" /> </p>
-
-- 🔭 I’m currently working at **Soflab Technology**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
